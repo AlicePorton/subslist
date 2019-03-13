@@ -1,0 +1,7 @@
+out
+Sublist3r/data
+.idea
+**/*.txt
+**/*.json
+*.txt
+yahoo_subdomains1.txt
