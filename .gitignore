@@ -5,3 +5,4 @@ Sublist3r/data
 **/*.json
 *.txt
 yahoo_subdomains1.txt
+*.json
